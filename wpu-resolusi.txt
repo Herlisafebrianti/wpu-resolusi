@@ -1,4 +1,5 @@
 WPU RESOLUSI
-- mampu mengoperasikan GITHUB dan GIT
-- mampu menggunakan tools IRS dan otomax
--Konsisten dalam mempelajari hal baru
+- Mampu mengoperasikan GITHUB dan GIT
+- Mampu menggunakan tools IRS dan Otomax
+- Konsisten dalam mempelajari hal baru
+- Explore hal baru 
